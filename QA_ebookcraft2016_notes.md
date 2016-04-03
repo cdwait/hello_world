@@ -2,6 +2,7 @@
 [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 #Elements of Quality Assurance 
 _By Joshua Tallent_
+
 *Disorderly and incomplete notes taken by Chris Wait*
 
 __Main takeaways__
