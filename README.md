@@ -5,6 +5,7 @@
 * epubcheck
   * Oxygen can be loaded with epubcheck
 * Verification is QA
+
 ##Retailer requirements
 |Apple     |Kindle     |Kobo     |
 |--------|-----------|--------|
