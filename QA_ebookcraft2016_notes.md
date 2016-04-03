@@ -5,7 +5,8 @@ _By Joshua Tallent_
 
 *Disorderly and incomplete notes taken by Chris Wait*
 
-__Main takeaways__
+_Main takeaways_
+
 1. I need to improve my CSS reset
   * specifically regarding line-height
 2. Should I be hacking small-caps?
