@@ -10,9 +10,9 @@ first repository
 I want to use _markdown_ for the following purposes
 
 1. To experiment with XML-first workflow
-..* This could increase efficiency at ND
+  * This could increase efficiency at ND
 2. To just be kind of a badass overall
-..* This is the whole point of everything
+  * This is the whole point of everything
 
 
 
