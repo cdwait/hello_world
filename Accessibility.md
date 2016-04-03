@@ -14,18 +14,18 @@ _Notes by Chris Wait_
 
 ##In the EPUB
 
-* Use <em>, <i>, <strong>, <b>
-  *<em> and <i> are semantically different. <em> denotes emphasis (text that a character is shouting), <i> denotes italic style text (which may not be meaningful in spoken text, i.e., the convention of italicizing foreign text, which will be apparent in the accent of the speaking voice). Same for bold.
+* Use `em`, `i`, `strong`, `b`
+  *`em` and `i` are semantically different. `em` denotes emphasis (text that a character is shouting), `i` denotes italic style text (which may not be meaningful in spoken text, i.e., the convention of italicizing foreign text, which will be apparent in the accent of the speaking voice). Same for bold.
 
 
 * Use semantic tags throughout
-  * <body>
-  * <section>
-  * <h1>, <h2>, etc.
-  * <p>
-  * <figure>
-  * <figcaption>
-  * <aside>
+  * `body`
+  * `section`
+  * `h1`, `h2`, etc.
+  * `p`
+  * `figure`
+  * `figcaption`
+  * `aside`
 
 * Use landmarks
 
