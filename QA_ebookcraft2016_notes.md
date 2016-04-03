@@ -7,7 +7,7 @@ _By Joshua Tallent_
 
 __Main takeaways__
 1. I need to improve my CSS reset
-  *specifically regarding line-height
+  * specifically regarding line-height
 2. Should I be hacking small-caps?
 3. Forget about the NOOK. It's doomed. 
 
