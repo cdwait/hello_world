@@ -2,9 +2,10 @@
 [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 #Elements of Quality Assurance
 ##Automated Validation
-*epubcheck
-  *Oxygen can be loaded with epubcheck
-*Verification is QA
+* epubcheck
+  * Oxygen can be loaded with epubcheck
+* Verification is QA
+
 ##Retailer requirements
 |Apple     |Kindle     |Kobo     |
 |--------|-----------|--------|
